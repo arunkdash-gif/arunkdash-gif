@@ -10,7 +10,7 @@ I enjoy building **data-driven decision systems**, **predictive and analytical m
 ## 🔥 **About Me**
 - 🛠️ 17+ years in **Engineering Excellence**, **Reliability**, and **Project Execution**  
 - 🤖 Skilled in **Predictive Maintenance**, ML Classification, Regression & Clustering  
-- 🧠 Strong statistical foundation — ANOVA, Hypothesis Testing, Distributions  
+- 🧠 Strong statistical foundation - ANOVA, Hypothesis Testing, Distributions  
 - 🐍 Experienced in Python (Pandas, NumPy, Scikit-learn)  
 - 📊 Expert in **Tableau dashboards**, KPI design & storyboards  
 - 🗄️ Advanced in **SAP PM/MM/BI**, master data governance, process standardization  
