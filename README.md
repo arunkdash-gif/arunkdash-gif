@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Arun Kumar Dash  
-### **Engineering Leader → Data Science & Digital Transformation Professional**
+### **Engineering Leader - Data Science & Digital Transformation Professional**
 
 Mechanical & Reliability Engineering professional with **17+ years of experience** in engineering excellence, RCM3, failure diagnostics, SAP PM standardization, and multi-port operations. Recently transitioned into **Data Science & Machine Learning**, blending deep domain expertise with strong analytical, statistical, and predictive modelling skills.
 
