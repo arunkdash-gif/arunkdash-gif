@@ -65,7 +65,7 @@ Institute of Technical Education & Research (BPUT),Bhubaneswar
 
 ---
 
-## 🚀 **Highlighted Projects**
+## 🚀 **Key Data Science Projects**
 
 ### 📌 **1. Predictive Maintenance – Engine Failure Classification**
 Built a full ML pipeline to predict engine failures using sensor telemetry.  
