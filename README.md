@@ -140,8 +140,28 @@ Explore interactive dashboards on operational analytics, clustering, and supply 
 
 ---
 
-## 🛠 **Tools & Technologies**
-**Python**, **SQL**, **Tableau**, **Jupyter**, **SAP PM/MM/BI**, AutoCAD, CATIA, MS Excel/PowerPoint, MS Projects, SMMS, Primavera
+## 🛠️ Tools & Technologies
+
+### 🤖 **AI / Data Science Tools**
+- Python (Pandas, NumPy, Scikit-learn)  
+- SQL (Joins, CTEs, Window Functions)  
+- Jupyter Notebook  
+- Tableau (Dashboards, KPIs, Storyboards)  
+- Machine Learning (Classification, Regression, Clustering, Ensembles)  
+- Statistical Modelling (ANOVA, Hypothesis Testing, Distributions)  
+- Data Wrangling & Exploratory Data Analysis (EDA)  
+- Generative AI & Prompt Engineering  
+
+### ⚙️ **Core Engineering & Enterprise Tools**
+- SAP PM / MM / BI  
+- AutoCAD  
+- CATIA  
+- MS Excel, PowerPoint, MS Projects  
+- SMMS (Ship Maintenance Management System)  
+- Primavera  
+- Reliability Tools: RCM3, RCA, FMEA  
+
+
 
 ---
 
