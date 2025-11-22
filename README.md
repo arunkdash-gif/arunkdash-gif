@@ -49,7 +49,7 @@ Great Learning + University of Texas at Austin
 *Grade: A+(4.33)-(96–100% equivalent)*
 
 **B.Tech – Mechanical Engineering**  
-Institute of Technical Education & Research (BPUT)
+Institute of Technical Education & Research (BPUT),Bhubaneswar
 
 ---
 
