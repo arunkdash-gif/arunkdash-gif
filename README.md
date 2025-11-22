@@ -54,13 +54,14 @@ Institute of Technical Education & Research (BPUT),Bhubaneswar
 ---
 
 ## 🏅 **Certifications & Training**
+- Data Science: Machine Learning, Python, SQL, Tableau  
+- Generative AI & Prompt Engineering (Foundational)
 - Reliability-Centered Maintenance (RCM3) – Aladon  
 - Internal Auditor – ISO 9001, 14001, 45001, 50001  
 - Six Sigma Green Belt  
 - Hydraulics & Pneumatics – CRISP  
 - Mechanical Equipment Commissioning (ECL France, Fives Solios)  
-- Data Science: Machine Learning, Python, SQL, Tableau  
-- Generative AI & Prompt Engineering (Foundational)
+
 
 ---
 
