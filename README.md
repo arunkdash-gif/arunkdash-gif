@@ -129,8 +129,10 @@ Executed a complete end-to-end **SQL analytics project** using a Car Insurance d
 ---
 
 ### 🥇 **Hackathon Achievement**
-- **Ranked No.1 in DSBA Cohort** for Shinkansen Travel Experience ML Model with Team(HackaholiX) Karthik and Vikram
-
+- **Ranked No.1 in DSBA Cohort** for Shinkansen Travel Experience ML Model(Accuracy- 0.9590192) with Team(HackaholiX) Karthik and Vikram
+  
+🔗 *GitHub Repo:* _( https://github.com/arunkdash-gif/Hackathon-WINNER-Shinkansen-customer-satisfaction-CATBoost.git)_
+ 
 ---
 
 ## 📊 **Tableau Portfolio**
