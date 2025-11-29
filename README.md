@@ -124,7 +124,7 @@ Executed a complete end-to-end **SQL analytics project** using a Car Insurance d
 - Built analytical queries for fraud indicators, premium optimization, and risk scoring logic.  
 - Delivered insights to support underwriting decisions and risk mitigation strategies.  
 
-🔗 *GitHub Repo:* _(https://github.com/arunkdash-gif/Great-Learning-Projects-Introduction-to-SQL.git)_
+🔗 *GitHub Repo:* _(https://github.com/arunkdash-gif/Data-Science-Projects-Introduction-to-SQL.git)_
 
 ---
 
