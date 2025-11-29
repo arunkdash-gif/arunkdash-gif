@@ -96,7 +96,7 @@ Clustered customers using financial behavior & purchase patterns.
 Created a regression model to predict first-day content viewership.  
 - Feature engineering, multicollinearity checks, model assumptions  
 - Business recommendations for content strategy optimization  
-🔗 *GitHub Repo:* _(https://github.com/arunkdash-gif/Great-Learning-Projects-Predictive-Modeling.git)_
+🔗 *GitHub Repo:* _(https://github.com/arunkdash-gif/Project-Predictive-Modeling.git)_
 
 
 ### 📌 **5. EasyVisa – Visa Approval Prediction (Classification Model)**
