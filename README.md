@@ -88,7 +88,7 @@ Developed regression models to forecast daily warehouse shipping volume.
 Clustered customers using financial behavior & purchase patterns.  
 - Applied K-Means & Hierarchical clustering  
 - Created Tableau dashboard for segment profiling  
-🔗 *GitHub Repo:* _(https://github.com/arunkdash-gif/Great-Learning-Projects-Unsupervised-Learning.git))_
+🔗 *GitHub Repo:* _(https://github.com/arunkdash-gif/Machine-Learning-Projects-Unsupervised-Learning.git)_
 
 ---
 
