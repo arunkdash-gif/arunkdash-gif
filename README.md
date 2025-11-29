@@ -108,7 +108,7 @@ Developed a machine learning classification model to predict visa approval outco
 - Built a full evaluation pipeline with F1-score, recall, precision, ROC curves, and confusion matrices.  
 - Delivered actionable insights on factors influencing visa decisions and optimized the final model for balanced recall and precision.  
 
-🔗 *GitHub Repo:* _(https://github.com/arunkdash-gif/Great-Learning-Projects--Machine-Learning---2.git)_
+🔗 *GitHub Repo:* _(https://github.com/arunkdash-gif/Project-Machine-Learning-2.git)_
 
 ### 📌 **6. Car Insurance – SQL-Based Claims Analytics & Risk Insights**
 Executed a complete end-to-end **SQL analytics project** using a Car Insurance dataset to understand claim patterns, customer risk profiles, and operational trends.
