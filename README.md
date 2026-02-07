@@ -45,7 +45,7 @@ I enjoy building **data-driven decision systems**, **predictive and analytical m
 
 ## 📚 **Education**
 **Post Graduate Program – Data Science & Business Analytics (PGP–DSBA)**  
-Great Learning + University of Texas at Austin  
+McCombs School of Business, The University of Texas at Austin
 *Grade: A+(4.33)-(96–100% equivalent)*
 
 **B.Tech – Mechanical Engineering**  
@@ -54,13 +54,12 @@ Institute of Technical Education & Research (BPUT),Bhubaneswar
 ---
 
 ## 🏅 **Certifications & Training**
-- Data Science: Machine Learning, Python, SQL, Tableau  
-- Generative AI & Prompt Engineering (Foundational)
+- Data Science: Machine Learning, Python, SQL, Tableau,Generative AI & Prompt Engineering (Foundational)
 - Reliability-Centered Maintenance (RCM3) – Aladon  
 - Internal Auditor – ISO 9001, 14001, 45001, 50001  
-- Six Sigma Green Belt  
-- Hydraulics & Pneumatics – CRISP  
-- Mechanical Equipment Commissioning (ECL France, Fives Solios)  
+
+
+
 
 
 ---
