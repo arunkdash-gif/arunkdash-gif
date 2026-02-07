@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Arun Kumar Dash  
 ### **Engineering Leader - Data Science & Digital Transformation Professional**
 
-Engineering & Reliability leader with 17+ years of experience driving engineering excellence, RCM3, failure diagnostics, SAP PM standardization, and multi-site operations across asset-intensive environments. Post Graduate in Data Science & Business Analytics from the McCombs School of Business, The University of Texas at Austin, combining deep engineering domain expertise with strong analytical, statistical, and predictive modeling capabilities.
+Engineering & Reliability leader with 17+ years of experience driving engineering excellence, RCM3, failure diagnostics, SAP PM standardization, and multi-site operations across asset-intensive environments. Completed the Post Graduate Program (PGP) in Data Science & Business Analytics from the McCombs School of Business, The University of Texas at Austin, combining deep engineering domain expertise with strong analytical, statistical, and predictive modeling capabilities.
 
 Focused on designing data-driven decision systems, predictive maintenance models, and analytics-led digital solutions that enhance asset reliability, optimize operational processes, and deliver strategic insights. Passionate about leveraging engineering leadership with modern data science and machine learning to solve complex, real-world problems at scale.
 
