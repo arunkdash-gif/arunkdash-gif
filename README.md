@@ -140,7 +140,7 @@ Explore interactive dashboards on operational analytics, clustering, and supply 
 
 🔗 **Tableau Public:** _(https://public.tableau.com/app/profile/arun.dash/viz/DVTProject-CarInsuranceClaims-ArunDash/CarInsuranceClaimsAnalysisStoryboard)_
 
-##📌 **6. Intel Image Classification – Deep Learning (Computer Vision)**
+### 📌 **6. Intel Image Classification – Deep Learning (Computer Vision)**
 Developed a deep learning model to classify natural scene images into multiple categories using Convolutional Neural Networks and transfer learning.  
 
 - Built a **baseline CNN model** to classify images into six categories: buildings, forest, glacier, mountain, sea, and street.  
