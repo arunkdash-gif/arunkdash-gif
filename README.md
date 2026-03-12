@@ -30,6 +30,7 @@ Focused on designing data-driven decision systems, predictive maintenance models
 - Model Evaluation, Hyperparameter Tuning  
 - Tableau Dashboards & Storytelling  
 - Statistical Modelling (ANOVA, Hypothesis Testing)
+- Neural Networks (ANN, CNN, RNN, LSTM), Transfer Learning (ResNet, Pretrained Models)
 
 ### **Engineering & Reliability Excellence**
 - Reliability-Centered Maintenance (RCM3)  
@@ -139,6 +140,17 @@ Explore interactive dashboards on operational analytics, clustering, and supply 
 
 🔗 **Tableau Public:** _(https://public.tableau.com/app/profile/arun.dash/viz/DVTProject-CarInsuranceClaims-ArunDash/CarInsuranceClaimsAnalysisStoryboard)_
 
+### 📌 **6. Intel Image Classification – Deep Learning (Computer Vision)**
+Developed a deep learning model to classify natural scene images into multiple categories using Convolutional Neural Networks and transfer learning.  
+
+- Built a **baseline CNN model** to classify images into six categories: buildings, forest, glacier, mountain, sea, and street.  
+- Implemented **transfer learning using ResNet50**, comparing frozen and fine-tuned architectures to improve model performance.  
+- Applied **image preprocessing, normalization, and data augmentation** to enhance model generalization and reduce overfitting.  
+- Evaluated models using **accuracy, validation loss, confusion matrix, and classification metrics**.  
+- Achieved improved validation performance through **fine-tuning of pretrained layers** and optimization of training parameters.  
+
+🔗 *GitHub Repo:* _(Add your repo link here once created)_
+
 ---
 
 ## 🛠️ Tools & Technologies
@@ -150,7 +162,8 @@ Explore interactive dashboards on operational analytics, clustering, and supply 
 - Tableau (Dashboards, KPIs, Storyboards)  
 - Machine Learning (Classification, Regression, Clustering, Ensembles)  
 - Statistical Modelling (ANOVA, Hypothesis Testing, Distributions)  
-- Data Wrangling & Exploratory Data Analysis (EDA)  
+- Data Wrangling & Exploratory Data Analysis (EDA)
+- Neural Networks (ANN, CNN, RNN, LSTM), Transfer Learning (ResNet, Pretrained Models)
 - Generative AI & Prompt Engineering  
 
 ### ⚙️ **Core Engineering & Enterprise Tools**
